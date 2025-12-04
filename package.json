@@ -1,0 +1,22 @@
+{
+  "name": "steal-a-brainrot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "game",
+    "brainrot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A Discord bot game where you collect, steal, and trade brainrot characters!",
+  "dependencies": {
+    "@octokit/rest": "^22.0.1",
+    "discord.js": "^14.25.1"
+  }
+}
