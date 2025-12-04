@@ -1,0 +1,155 @@
+Noobini Pizzanini	Common	25	1
+Lirili Larila	Lirili Larila	Common	250	3
+TIM Cheese	Tim Cheese	Common	500	5
+Flurifura	FluriFlura	Common	750	7
+Talpa Di Fero	Talpa Di Fero	Common	1k	9
+Svinia Bombardino	Svinina Bombardino	Common	1.2k	10
+Pipi Kiwi	Pipi Kiwi	Common	1.5k	13
+Racooni Jandelini	Racooni Jandelini	Common	1.3k	12
+Pipi Corni	Pipi Corni	Common	1.7k	14
+Trippi Troppi	Trippi Troppi	Rare	2k	15
+Gangster Footera	Gangster Footera	Rare	4k	30
+Bandito Bobritto	Bandito Bobritto	Rare	4.5k	35
+Boneca Ambalabu	Boneca Ambalabu	Rare	5k	40
+Cacto Hipopotamo	Cacto Hipopotamo	Rare	6.5k	50
+Ta Ta Ta Ta Sahur	Ta Ta Ta Ta Sahur	Rare	7.5k	55
+Tric Trac Baraboom	Tric Trac Baraboom	Rare	9k	65
+Steal a Brainrot Pipi Avocado	Pipi Avocado	Rare	9.5k	70
+Cappuccino Assassino	Cappuccino Assassino	Epic	10k	75
+Brr Brr Patapin	Brr Brr Patapim	Epic	15k	100
+Trulimero Trulicina	Trulimero Trulicina	Epic	20k	125
+Bambini Crostini	Bambini Crostini	Epic	22.5k	130
+Bananita Dolphinita	Bananita Dolphinita	Epic	25k	150
+Perochello Lemonchello	Perochello Lemonchello	Epic	27.5k	160
+Brri Brri Bicus Dicus Bombicus	Brri Brri Bicus Dicus Bombicus	Epic	30k	175
+Avocadini Guffo	Avocadini Guffo	Epic	35k	225
+Salamino Penguino	Salamino Penguino	Epic	40k	250
+Ti Ti Ti Sahur	Ti Ti Ti Sahur	Epic	37.5k	225
+Penguino Cocosino	Penguino Cocosino	Epic	45k	300
+Burbalini Loliloli	Burbaloni Loliloli	Legendary	35k	200
+Chimpanzini Bananini	Chimpazini Bananini	Legendary	50k	300
+Ballerina Cappuccina	Ballerina Cappuccina	Legendary	100k	500
+Chef Crabracadabra	Chef Crabracadabra	Legendary	150k	600
+Lionel Cactuseli	Lionel Cactuseli	Legendary	175k	650
+Glorbo Fruttodrillo	Glorbo Fruttodrillo	Legendary	200k	750
+Blueberrini Octapusini	Blueberrini Octopusini	Legendary	250k	1k
+Strawberelli Flamingelli	Strawberelli Flamingelli	Legendary	275k	1.1k
+Pandaccini Bananini	Pandaccini Bananini	Legendary	300k	1.2k
+Cocosini Mama	Cocosini Mama	Legendary	285k	1.2k
+Sigma Boy	Sigma Boy	Legendary	325k	1.3k
+Sigma Girl	Sigma Girl	Legendary	340k	1.8k
+Pi Pi Watermelon	Pi Pi Watermelon	Legendary	135k	1.3k
+frigo Camelo	Frigo Camelo	Mythic	300k	1.4k
+Orangutini Ananasini	Orangutini Ananassini	Mythic	400k	1.7k
+Rhino Toasterino	Rhino Toasterino	Mythic	450k	2.1k
+Bombardiro Crocodilo	Bombardiro Crocodilo	Mythic	500k	2.5k
+Bombombini Gusini	Bombombini Gusini	Mythic	1M	5k
+Cavallo Virtuso	Cavallo Virtuso	Mythic	2.5M	7.5k
+Gorillo Watermelondrillo	Gorillo Watermelondrillo	Mythic	3M	8k
+Avocadorilla	Avocadorilla	Mythic	2M	7.5k
+Tob Tobi Tobi	Tob Tobi Tobi	Mythic	3.5M	8.5k
+Gangazelli Trulala	Ganganzelli Trulala	Mythic	4M	9k
+Cachorrito Melonito	Cachorrito Melonito	Mythic	4.4M	13k
+Elefanto Frigo	Elefanto Frigo	Mythic	4.6M	14k
+TBA	Toiletto Focaccino	Mythic	4.8M	16k
+Te Te Te Sahur	Te Te Te Sahur	Mythic	2.5M	9.5k
+Tracoducotulu Delapeladustuz	Tracoducotulu Delapeladustuz	Mythic	3M	12k
+Lerulerulerule	Lerulerulerule	Mythic	3.5M	8.7k
+Carloo	Carloo	Mythic Admin Lucky Block	4.5M	13.5k
+Spioniro Golubiro	Spioniro Golubiro	Mythic Lucky	750k	3.5k
+Zibra Zubra Zibralini	Zibra Zubra Zibralini	Mythic Lucky	1M	6k
+Tigrilini Watermelini	Tigrilini Watermelini	Mythic Lucky	1M	6.5k
+Cocofanta Elefanto	Coco Elefanto	Brainrot God	5M	10k
+Girafa Celestre	Girafa Celestre	Brainrot God	7.5M	20k
+Gyattatino Nyanino	Gattatino Nyanino	Brainrot God	7.5M	35k
+Chihuanini Taconini	Chihuanini Taconini	Brainrot God	8.5M	45k
+Matteo	Matteo	Brainrot God	10M	50k
+Tralalero Tralala	Tralalero Tralala	Brainrot God	10M	50k
+Espresso Signora	Espresso Signora	Brainrot God	25M	70k
+Odin Din Din Dun	Odin Din Din Dun	Brainrot God	15M	75k
+Statutino Libertino	Statutino Libertino	Brainrot God	20M	75k
+Trenostruzzo Turbo 3000	Trenostruzzo Turbo 3000	Brainrot God	25M	150k
+Espresso Signora	Ballerino Lololo	Brainrot God	35M	200k
+Los Orcalitos	Los Orcalitos	Brainrot God	45M	235k
+Dug Dug Dug	Dug dug dug	Brainrot God	45.5M	255k
+Tralalita Tralala	Tralalita Tralala	Brainrot God	20M	100k
+Urubini Flamenguini	Urubini Flamenguini	Brainrot God	30M	150k
+Los Bombinitos	Los Bombinitos	Brainrot God	42.5M	220k
+Trigoligre Frutonni	Trigoligre Frutonni	Brainrot God Lucky	15M	60k
+Orcalero Orcala	Orcalero Orcala	Brainrot God Lucky	15M	100k
+Bulbito Bandito Traktorito	Bulbito Bandito Traktorito	Brainrot God Lucky	25M	205k
+Los Crocodilitos	Los Crocodillitos	Brainrot God	12.5M	55k
+Piccione Macchina	Piccione Macchina	Brainrot God	40M	225k
+Trippi Troppi Troppa Trippa	Trippi Troppi Troppa Trippa	Brainrot God	30M	175k
+Los Tungtuntuncitos	Los Tungtungtungcitos	Brainrot God	37.5M	210k
+Tukanno Bananno	Tukanno Bananno	Brainrot God	22.5M	100k
+Alessio	Alessio	Brainrot God Admin Lucky Block	17.5M	85k
+Tipi Topi Taco	Tipi Topi Taco	Brainrot God	20M	75k
+Extinct Ballerina	Extinct Ballerina	Brainrot God	23.5M	125k
+Capi Taco	Capi Taco	Brainrot God	31M	155k
+Gattito Tacoto	Gattito Tacoto	Brainrot God	32.5M	160k
+Pakrahmatmamat	Pakrahmatmamat	Brainrot God	37.5M	215k
+Tractoro Dinosauro	Tractoro Dinosauro	Brainrot God	42.5M	230k
+Corn Corn Corn Sahur	Corn Corn Corn Sahur	Brainrot God	45M	250k
+Squalanana	Squalanana	Brainrot God	45M	250k
+Los Tipi Tacos	Los Tipi Tacos	Brainrot God	46M	260k
+Bombardini Tortinii	Bombardini Tortinii	Brainrot God Taco Tuesday	50M	225k
+Pop pop sahur	Pop pop Sahur	Brainrot God	65M	295k
+Las Sis	Las Sis	Secret	25M	17.5M
+La Vacca Saturno Saturnita
+La Vacca Staturno Saturnita	Secret	50M	250k
+Chimpanzini_spiderini	Chimpanzini Spiderini	Secret	100M	325k
+Extinct Tralalero	Extinct Tralalero	Secret	125M	450k
+Extinct Matteo	Extinct Matteo	Secret	140M	625k
+Los Tralaleirtos	Los Tralaleritos	Secret	150M	500k
+La Karkerkar Combinasion	La Karkerkar Combinasion	Secret	175M	700k
+TBA	Karker Sahur	Secret	185M	725k
+Las Tralaleritas	Las Tralaleritas	Secret	150M	650k
+Job Job Job Sahur	Job Job Job Sahur	Secret	175M	700k
+Los Spyderinis	Los Spyderrinis	Secret	250M	450k
+Perrito Burrito	Perrito Burrito	Secret	250M	1M
+Graipuss Medussi	Graipuss Medussi	Secret	250M	1M
+Los Jobcitos	Los Jobcitos	Secret	500M	1.5M
+La Grande Combinasion	La Grande Combinasion	Secret	1B	10M
+Tacorita Bicicleta	Tacorita Bicicleta	Secret	2.2B	16.5M
+Nuclearo Dinossauro	Nuclearo Dinossauro	Secret	2.5B	15M
+Los 67	Los 67	Secret	2.7B	22.5M
+Money Money Puggy	Money Money Puggy	Secret	2.6B	21M
+Chillin chili	Chillin Chili	Secret	3B	350M
+La Extinct Grande	La Extinct Grande	Secret	3.2B	23.5M
+Los Tacoritas	Los Tacoritas	Secret	4B	32M
+Los Tortus	Los Tortus	Secret	4B	500k
+TBA	Tang Tang Kelentang	Secret	4.5B	33.5M
+Garama and Madundung	Garama and Madundung	Secret	10B	50M
+La Secret combinasion	La Secret Combinasion	Secret	50B	125M
+Tortuginni Dragonfruitini	Torrtuginni Dragonfruitini	Secret Lucky	500M	350k
+Tortuginni Dragonfruitini	Pot Hotspot	Secret Lucky	500M	2.5M
+To to to Sahur	To to to Sahur	Secret	575M	2.2M
+Las Vaquitas Saturnitas	Las Vaquitas Saturnitas	Secret	160M	750K
+Chicleteira Bicicleteira	Chicleteira Bicicleteira	Secret	750M	3.5M
+Agarrini la Palini	Agarrini la Palini	Secret	80M	425k
+Mariachi corazoni	Mariachi Corazoni	Secret	1.7B	12.5M
+Dragon Cannelloni	Dragon Cannelloni	Secret	100B	100M
+Los Combinasionas	Los Combinasionas	Secret	2B	63.7M
+La Cucaracha	La Cucaracha	Secret (admin)	110M	475k
+Karkerkar Kurkur	Karkerkar Kurkur	Secret (admin)	100M	2.4M
+Los Hotspotsitos	Los Hotspotsitos	Secret	300M	20M
+La Sahur Combinasion	La Sahur Combinasion	Secret	550M	2M
+Quesadilla Crocodila	Quesadilla Crocodila	Secret	700M	3M
+Esok Sekolah	Esok Sekolah	Secret Lucky	750M	30M
+Lost Matteos	Los Matteos	Secret	100M	300k
+Dul Dul Dul	Dul Dul Dul	Secret	150M	375k
+Blackhole Goat	Blackhole Goat	Secret	75M	400k
+Nooo My Hotspot	Nooo My Hotspot	Secret Taco Tuesday	500M	1.5M
+Sammyini Spyderini	Sammyini Spyderini	Secret	100M	325k
+Spaghetti Tualetti	Spaghetti Tualetti	Secret	750M	60M
+67 Brainrot	67	Secret	1.2B	7.5M
+Los Noo My Hotspotsitos	Los Noo My Hotspotsitos	Secret	1B	5M
+Celularcini Viciosini	Celularcini Viciosini	Secret	2.7B	22.5M
+Tralaledon	Tralaledon	Secret	3B	27.5M
+Tictac sahur	Tictac Sahur	Secret	6B	37.5M
+La Supreme Combinasion	La Supreme Combinasion	Secret	7B	40M
+Ketupat Kepat	Ketupat Kepat	Secret	5B	35M
+Ketchuru and Musturu	Ketchuru and Musturu	Secret	7.5B	42.5M
+TBA	Burguro and Fryuro	Secret	75B	150M
+Strawberry Elephant	Strawberry Elephant	OG	500B	250M
