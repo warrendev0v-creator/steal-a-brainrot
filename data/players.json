@@ -1,0 +1,32 @@
+{
+  "1225731448833839184": {
+    "money": 0,
+    "inventory": [],
+    "rebirths": 6,
+    "multiplier": 4,
+    "lastCollect": 1764847285210,
+    "lastSteal": 0,
+    "lastRoll": 0,
+    "lastDaily": 0,
+    "dailyStreak": 0,
+    "totalCollected": 4334872500,
+    "totalStolen": 0,
+    "joinedServers": [],
+    "createdAt": 1733313600000
+  },
+  "1297831345002643465": {
+    "money": 1000,
+    "inventory": [],
+    "rebirths": 0,
+    "multiplier": 1,
+    "lastCollect": 0,
+    "lastSteal": 0,
+    "lastRoll": 0,
+    "lastDaily": 0,
+    "dailyStreak": 0,
+    "totalCollected": 0,
+    "totalStolen": 0,
+    "joinedServers": [],
+    "createdAt": 1764848353736
+  }
+}
